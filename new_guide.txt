@@ -1,4 +1,4 @@
 Add first line on master.
 Add second line on master.
 Add third line on dev.
-Creating a new branch is quick && simple.
+Creating a new branch is quick and simple.
